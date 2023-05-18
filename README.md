@@ -62,8 +62,9 @@ fractal dimension (“coastline approximation” — 1)</p>
     <br>
     <div>
       
-<p><b>🎯 STEPS:</b></p>  
-      <P>
+<p><b>♻️ SYSTEM WORKFLOW:</b></p>
+   
+![System Workflow](https://user-images.githubusercontent.com/108861190/234074536-4daa420c-8e44-4066-9141-e03402cafd9b.png)
         
       
       
